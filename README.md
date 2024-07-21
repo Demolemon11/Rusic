@@ -1,0 +1,3 @@
+# Rusic
+
+一个基于[iced-rs](https://crates.io/crates/iced)的音乐播放器, 功能尚不完善, 开发ing...
